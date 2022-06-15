@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aloysiusfaustin@gmail.com**
 
-- ⚡ Fun fact **i weird**
+- ⚡ Fun fact **im weird**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

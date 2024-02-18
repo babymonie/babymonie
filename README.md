@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SOLETH**
+- 🔭 I’m currently working on **SPRINTUI**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **c**
 
-- 👯 I’m looking to collaborate on **SOLETH**
+- 👯 I’m looking to collaborate on **SPRINTUI**
 
-- 🤝 I’m looking for help with **SOLETH**
+- 🤝 I’m looking for help with **SPRINTUI**
 
 - 💬 Ask me about **css,html,javascript,c#,php**
 
 - 📫 How to reach me **aloysiusfaustin@gmail.com**
 
-- ⚡ Fun fact **im weird**
+- ⚡ Fun fact **I started back in 2019**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
